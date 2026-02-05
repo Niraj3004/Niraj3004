@@ -72,8 +72,7 @@ I enjoy building real-world and business-focused applications like:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Niraj3004&show_icons=true&theme=tokyonight&border_radius=12" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Niraj3004&theme=tokyonight&border_radius=12" height="170"/>
+
 
 </div>
 
@@ -85,11 +84,7 @@ I enjoy building real-world and business-focused applications like:
 
 ---
 
-## 🧠 Top Languages
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj3004&layout=compact&theme=tokyonight&border_radius=12"/>
 
 </div>
 
