@@ -1,9 +1,9 @@
 <!-- ===== HERO HEADER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=200&section=header&text=Niraj%20Kushwaha&fontSize=48&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20BSc%20Computing%20Student%20%7C%20Building%20Tech%20for%20Nepal%20🇳🇵&descAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=200&section=header&text=Niraj%20Kushwaha&fontSize=48&fontAlignY=35&desc=CEO%20%26%20Founder%20-%20Evolvix%20Infotech%20%7C%20Full%20Stack%20Developer%20%7C%20BSc%20Computing%20Student%20🇳🇵&descAlignY=55&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Niraj+Kushwaha;Full+Stack+Developer;BSc+(Hons)+Computing+Student+@+Islington;School+Teacher+%26+Home+Tutor;Turning+Ideas+into+Real+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Niraj+Kushwaha;CEO+%26+Founder+at+Evolvix+Infotech;Full+Stack+Developer;BSc+(Hons)+Computing+Student+@+Islington;Turning+Ideas+into+Real+Systems" />
 
 </div>
 
@@ -14,17 +14,17 @@
 
 ## 🌟 About Me
 
-I am a **BSc (Hons) Computing student** at **Islington College, Kathmandu** and a passionate  
-**Full-Stack Developer** & **school teacher**.
+I am a **BSc (Hons) Computing student** at **Islington College, Kathmandu** and the  
+**CEO & Founder of Evolvix Infotech**.
 
-I enjoy building real-world applications like:
+I enjoy building real-world and business-focused applications like:
 
 - 🏋️ Gym Management System (Java GUI)
 - 🛒 E-commerce Platforms (Next.js + Node.js)
 - 📦 Inventory & Billing Systems (Python)
 - 🌐 SaaS & Company Websites
 
-🎯 My long-term goal is to **enhance and evolve Nepal using technology** 🇳🇵
+🎯 My long-term goal is to **empower Nepali businesses through high-quality digital solutions** 🇳🇵
 
 ---
 
@@ -53,19 +53,18 @@ I enjoy building real-world applications like:
 
 ## 🚀 What I'm Building Right Now
 
+- 🌐 Evolvix Infotech – company website & service platform
 - 🛒 Full-stack E-commerce Platform
 - 📦 Shop Billing & Inventory System (Python)
 - 🏋️ Gym Management System (Java GUI)
-- 🌐 Company Website & Digital Services Platform
 
 ---
 
-## 🧑‍🏫 Professional Journey
+## 🧑‍💼 Professional Journey
 
-- 🏫 Primary School Teacher (All subjects)
+- 🚀 CEO & Founder – Evolvix Infotech
 - 🏫 DI & Coordinator – Malini Academy (2080–2081)
 - 🏫 Subhtara Secondary School, Birgunj Ranighat
-- 🏠 Private Home Tutor
 
 ---
 
@@ -117,6 +116,6 @@ I enjoy building real-world applications like:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:0ea5e9&height=120&section=footer"/>
 
-✨ *Building digital solutions to enhance and evolve Nepal* 🇳🇵
+✨ *Building digital solutions to empower Nepali businesses through technology* 🇳🇵
 
 </div>
