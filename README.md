@@ -1,7 +1,7 @@
 <!-- ===== HERO HEADER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=200&section=header&text=Niraj%20Kushwaha&fontSize=48&fontAlignY=35&desc=CEO%20%26%20Founder%20-%20Evolvix%20Infotech%20%7C%20Full%20Stack%20Developer%20%7C%20BSc%20Computing%20Student%20🇳🇵&descAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=200&section=header&text=Niraj%20Kushwaha&fontSize=48&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20BSc%20Computing%20Student%20%7C%20Building%20Tech%20for%20Nepal%&descAlignY=55&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Niraj+Kushwaha;CEO+%26+Founder+at+Evolvix+Infotech;Full+Stack+Developer;BSc+(Hons)+Computing+Student+@+Islington;Turning+Ideas+into+Real+Systems" />
 
