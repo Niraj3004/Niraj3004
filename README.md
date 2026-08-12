@@ -57,15 +57,6 @@ I enjoy building real-world and business-focused applications like:
 - 🛒 Full-stack E-commerce Platform
 - 📦 Shop Billing & Inventory System (Python)
 - 🏋️ Gym Management System (Java GUI)
-
----
-
-## 🧑‍💼 Professional Journey
-
-- 🚀 CEO & Founder – Evolvix Infotech
-- 🏫 DI & Coordinator – Malini Academy (2080–2081)
-- 🏫 Subhtara Secondary School, Birgunj Ranighat
-
 ---
 
 ## 📊 My GitHub in Motion
